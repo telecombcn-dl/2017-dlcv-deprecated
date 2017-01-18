@@ -173,7 +173,7 @@ Find us at the [class page](https://piazza.com/upc/summer2016/230360/home).
 
 |:--|:-:|
 | This course is co-funded by the Erasmus+ programme from the European Union | ![logo-erasmus] |
-|  This course is supported by the NVdia GPU Center of Excellence at the [Barcelona Supercomputing Center](http://www.bsc.es/) & [Universitat Politecnica de Catalunya](http://www.upc.edu/?set_language=en).|  ![logo-nvidia] |
+
 
 [logo-erasmus]: img/logos/erasmus.jpg "Erasmus logo"
-[logo-nvidia]: img/logos/nvidia220x234.png "Logo of NVidia"
+
