@@ -8,50 +8,28 @@ hide: true
 
 # Deep Learning for Computer Vision Barcelona
 
-### Summer seminar UPC TelecomBCN (July 4-8, 2016)
+### Summer seminar UPC TelecomBCN (June 21-27, 2017)
 
 Deep learning technologies are at the core of the current revolution in artificial intelligence for multimedia data analysis. The convergence of big annotated data and affordable GPU hardware has allowed the training of neural networks for data analysis tasks which had been addressed until now with hand-crafted features. Architectures such as convolutional neural networks, recurrent neural networks and Q-nets for reinforcement learning have shaped a brand new scenario in signal processing. This course will cover the basic principles and applications of deep learning to computer vision problems, such as image classification, object detection or text captioning.
 
 ## Course Instructors
 
-| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Elisa Sayrol][ElisaSayrol-photo]  | ![AmaiaSalvador][AmaiaSalvador-photo]  | ![Jordi Torres][JordiTorres-photo] | ![Eva Mohedano][EvaMohedano-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  |
+| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Elisa Sayrol][ElisaSayrol-photo]  | ![AmaiaSalvador][AmaiaSalvador-photo]  | ![Eva Mohedano][EvaMohedano-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Amaia Salvador (AS)][AmaiaSalvador-web] |  [Jordi Torres (JT)][JordiTorres-web] | [Eva Mohedano (EM)][EvaMohedano-web]  | [Kevin McGuinness (KM)][KevinMcGuinness-web]     |
+| [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Amaia Salvador (AS)][AmaiaSalvador-web] | [Eva Mohedano (EM)][EvaMohedano-web]  | [Kevin McGuinness (KM)][KevinMcGuinness-web]     |
 
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 [ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
 [AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
-[JordiTorres-web]: http://www.jorditorres.org/
 [EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
 [KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
 
 [XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 [AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
-[JordiTorres-photo]: img/instructors/JordiTorres.jpg "Jordi Torres"
 [EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
 [KevinMcGuinness-photo]: img/instructors/Kevin160x160.jpg "Kevin McGuinness"
 
-
-## Teaching assistants
-
-| ![Junting Pan][JuntingPan-photo] |  ![Míriam Bellver][MiriamBellver-photo]  | ![AlbertJimenez][AlbertJimenez-photo]  | ![Andrea Ferri][AndreaFerri-photo] | ![Alberto Montes][AlbertoMontes-photo]  | ![Maurici Yagües][MauriciYagues-photo]  |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| Junting Pan | [Míriam Bellver][MiriamBellver-web]  | [Albert Jiménez][AlbertJimenez-web] |  [Andrea Ferri][AndreaFerri-web] | [Alberto Montes][AlbertoMontes-web]  | [Maurici Yagües][MauriciYagues-web]     |
-
-[MiriamBellver-web]: https://www.linkedin.com/in/m%C3%ADriam-bellver-bueno-5090b4b5
-[AlbertJimenez-web]: https://www.linkedin.com/in/albertjimenezsanfiz
-[AndreaFerri-web]: https://www.linkedin.com/in/ferriand
-[SantiPascual-web]: https://github.com/santi-pdp
-[AlbertoMontes-web]: https://www.linkedin.com/in/alm59321
-[MauriciYagues-web]: https://www.bsc.es/about-bsc/staff-directory/yagues-maurici
-
-[JuntingPan-photo]: img/assistants/JuntingPan160x160.jpg "Junting Pan"
-[MiriamBellver-photo]: img/assistants/MiriamBellver160x160.jpg "Miriam Bellver"
-[AlbertJimenez-photo]: img/assistants/AlbertJimenez160x160.jpg "Albert Jiménez"
-[AndreaFerri-photo]: img/assistants/AndreaFerri160x160.jpg "Andrea Ferri"
-[AlbertoMontes-photo]: img/assistants/AlbertoMontes160x160.jpg "Alberto Montes"
-[MauriciYagues-photo]: img/assistants/MauriciYagues160x160.jpg "MauriciYagues"
 
 ## Organizers
 
@@ -73,145 +51,30 @@ Deep learning technologies are at the core of the current revolution in artifici
 [logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
 [logo-dcu]: img/logos/dcu.png "Dublin City University"
 
-## Lecture Slides and Videos
-
-| Topic                     | Speaker |       Slideshare                 |  YouTube                        | 
-| ------------------------- |:-------:|:--------------------------------:|:-------------------------------:|
-| D1L1 Welcome              | XG      | [Slides][welcome-slides]         |           |
-| D1L2 Classification       | EM      | [Slides][classification-slides]  |   |
-| D1L3 Deep networks        | ES      | [Slides][deep-slides]            |   |
-| D1L4 Backward Propagation | ES      | [Slides][backprop-slides]        | [Video][backprop-video]  |
-| D1L5 Training             | EM      | [Slides][training-slides]        |   |
-| D1L6 Software Frameworks  | KM      | [Slides][frameworks-slides]      | [Video][frameworks-video] |
-| D2L1 Memory & Computation | KM      | [Slides][memory-slides]          | [Video][memory-video]   |
-| D2L2 Data Augmentation    | EM      | [Slides][augmentation-slides]    |    |
-| D2L3 Visualization        | AS      | [Slides][visualization-slides]   | [Video][visualization-video]   |
-| D2L4 Imagenet Challenge   | XG      | [Slides][imagenet-slides]        |    |
-| D2L5 Transfer & Adaptation| KM      | [Slides][transfer-slides]        | [Video][transfer-video]   |
-| D2L6 Recurrent Networks   | XG      | [Slides][recurrent-slides]       | [Video][recurrent-video]   |
-| D3L1 Unsupervised Learning| KM      | [Slides][unsupervised-slides]    | [Video][unsupervised-video]   |
-| D3L2 Saliency Prediction  | ES      | [Slides][saliency-slides]        |    |
-| D3L3 Optimization         | KM      | [Slides][optimization-slides]    |    |
-| D3L4 Object Detection     | AS      | [Slides][object-slides]          | [Video][object-video]   |
-| D3L5 Face Recognition     | ES      | [Slides][face-slides]            | [Video][face-video]   |
-| D3L6 Image retrieval      | EM      | [Slides][retrieval-slides]       | [Video][retrieval-video]   |
-| D4L1 Generative Models    | KM      | [Slides][generative-slides]      |  |
-| D4L2 Segmentation         | AS      | [Slides][segmentation-slides]    | [Video][segmentation-video] |
-| D4L3 Language and Vision  | XG      | [Slides][language-slides]        | [Video][language-video] |
-| D4L4 Video Analytics      | XG      | [Slides][video-slides]           | [Video][video-video] |
-| D4L5 Medical Imaging      | ES      | [Slides][medical-slides]         | [Video][medical-video] |
-| D4L6 Attention Models     | AS      | [Slides][attention-slides]       | [Video][attention-video]  |
-| D5L Closing               | XG      | [Slides][closing-slides]         |  |
-
-[welcome-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-welcome-upc-telecombcn-2016
-[classification-slides]: http://www.slideshare.net/xavigiro/image-classification-dlcv-d1l2
-[deep-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-deep-networks-upc-2016
-[backprop-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-backward-propagation-upc-2016
-[backprop-video]: https://www.youtube.com/watch?v=jg8Hb4VMJg8
-[training-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-training-upc-2016
-[frameworks-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-software-frameworks-upc-2016
-[frameworks-video]: https://www.youtube.com/watch?v=_VODQgCOBL8
-
-[memory-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-memory-usage-and-computational-considerations-upc-2016
-[memory-video]: https://youtu.be/Hqtg7fznlnM
-[augmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-data-augmentation-upc-2016
-[visualization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-visualization-upc-2016
-[visualization-video]: https://youtu.be/YQvTxkPV8LQ
-[imagenet-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-imagenet-challenge-upc-2016
-[transfer-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-transfer-learning-and-domain-adaptation-upc-2016
-[transfer-video]: https://www.youtube.com/watch?v=UKleTP1Zy1U
-[recurrent-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-recurrent-neural-networks-upc-2016
-[recurrent-video]: https://www.youtube.com/watch?v=fQuv90i3Dlg
-
-[unsupervised-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-unsupervised-learning-upc-2016
-[unsupervised-video]: https://www.youtube.com/watch?v=5fxj0R4U2F4
-[saliency-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-saliency-prediction-upc-2016
-[optimization-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-optimization-upc-2016
-[object-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-object-detection-upc-2016
-[object-video]: https://www.youtube.com/watch?v=VuJu0t4mYKM
-[face-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-face-detection-and-recognition-upc-2016
-[face-video]: https://www.youtube.com/watch?v=uKYoyIwD42Y
-[retrieval-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-image-retrieval-upc-2016
-[retrieval-video]: https://www.youtube.com/watch?v=tsGhPsZiexQ
-
-[generative-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-generative-models-and-adversarial-training-upc-2016
-[segmentation-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-segmentation-upc-2016
-[segmentation-video]: https://www.youtube.com/watch?v=_aTTlkZ0kTo
-[language-slides]: http://www.slideshare.net/xavigiro/language-and-vision-dlcv-d4l3
-[language-video]: https://www.youtube.com/watch?v=IkJkD_hefik
-[video-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-video-analytics-upc-2016
-[video-video]: https://www.youtube.com/watch?v=2ALNzI90ysA
-[medical-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-medical-imaging-upc-2016 
-[medical-video]: https://www.youtube.com/watch?v=3gzIilFAmmY
-[attention-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-attention-models-upc-2016
-[attention-video]: https://www.youtube.com/watch?v=omHLeV1aicw
-
-[closing-slides]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-closing-upc-2016
-
-
 ## Hands on TensorFlow
 
-The seminar includes five practical sessions on [TensorFlow](https://www.tensorflow.org/), the Open Source Software Library for Machine Intelligence developed by Google. These sessions were taught by [Professor Jordi Torres](http://www.jorditorres.org/), with the teaching assistance of [Maurici Yagües](https://www.bsc.es/about-bsc/staff-directory/yagues-maurici). Both of them are part of the [Barcelona Supercomputing Center (BSC)](http://www.bsc.es/).
+The seminar includes four practical sessions on [TensorFlow](https://www.tensorflow.org/), the Open Source Software Library for Machine Intelligence developed by Google. 
 
-| Topic                     |                                      |  
-| ------------------------- |:------------------------------------:|
-| D1T Linear regressor      | [Slides][tensorflow1-slides]         | 
-| D2T Clustering            | [Slides][tensorflow2-slides]         | 
-| D3T Neuron & Tensorboard  | [Slides][tensorflow3-slides]         | 
-| D4T CNN & SLIM            | [Slides][tensorflow4-slides]         | 
-| D5T RNN                   | [Slides][tensorflow5-slides]         | 
+## Invited talks
+This 2017 edition of the seminar will include invited talks:
 
-The full course with code snippets is available in [this repo](https://github.com/jorditorresBCN/FirstContactWithTensorFlow).
-
-[tensorflow1-slides]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow/blob/master/TF.course.slides.day1.pdf
-[tensorflow2-slides]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow/blob/master/TF.course.slides.day2.pdf
-[tensorflow3-slides]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow/blob/master/TF.course.slides.day3.pdf
-[tensorflow4-slides]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow/blob/master/TF.course.slides.day4.pdf
-[tensorflow5-slides]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow/blob/master/TF.course.slides.day5.pdf
-
-## Student projects
-
-Master students together with some bachelor students organized in teams of five members who solved four directed tasks and developed an open project. The duration of the project corresponds to the single week of the course. Their slides and source code is available from their repos. If you are interested in hiring or contacting the students, some of them have provided their LinkedIn profiles from their project pages.
-
-| Team        | Project                              |         Page        |     Slides                  |  Repo                     |
-| ----------- |:------------------------------------:|:-------------------:|:---------------------------:|:-------------------------:|
-| Team 1      | Character autorotation + Autoencoders | [Web][team1-web]   | [Slides][team1-slides]   | [Repo][team1-repo] |
-| Team 2      | Neural Style                          | -                  | [Slides][team2-slides]   | [Repo][team2-repo] |
-| Team 3      | Generative Adversarial Network       | -                     | [Slides][team3-slides]   | [Repo][team3-repo] |
-| Team 4      | Multi-layer Neural Style             | -                  | [Slides][team4-slides]   | [Repo][team4-repo] |
-| Team 5      | Deep Dream                           | -                  | [Slides][team5-slides]   | [Repo][team5-repo] |
-
-[team1-web]: https://telecombcn-dl.github.io/dlcv01/
-[team1-slides]: https://github.com/telecombcn-dl/dlcv01/blob/master/DLCV%2001%20Project%20Slides.pdf
-[team1-repo]: https://github.com/telecombcn-dl/dlcv01
-
-[team2-slides]: https://docs.google.com/presentation/d/13BVjOUcOLMv46EdC3Nr15WZ5UUpoJysu86XACiNxhFo/edit#slide=id.p
-[team2-repo]:https://github.com/telecombcn-dl/dlcv02
-
-[team3-slides]: https://github.com/telecombcn-dl/dlcv03/blob/Presentation/dlcv03.pdf
-[team3-repo]: https://github.com/telecombcn-dl/dlcv03
-
-[team4-slides]: https://docs.google.com/presentation/d/1daS4M7e5Grk6Ytqk2kdapNonDVCPKwiv5HxscIA8UQI/edit?usp=sharing
-[team4-repo]: https://github.com/telecombcn-dl/dlcv04
-
-[team5-slides]: https://github.com/telecombcn-dl/dlcv05/blob/master/Project%20Presentation.pdf
-[team5-repo]: https://github.com/telecombcn-dl/dlcv05
+### [Jordi Torres](http://jorditorres.org/), from [Barcelona SuperComputing Center](http://www.bsc.es).
 
 
-## Schedule
+## Preliminary Schedule
 
-| When       | Monday 4              | Tuesday 5          | Wednesday 6         | Thursday 7         | Friday 8                 |
+| When       | Wednesday 21          | Thursday 22      | Friday 23         | Monday 26         | Tuesday 27                |
 |:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
-| 3:00-3:20  | [Welcome]           | [Memory]        | [Unsupervised]     | [Adversarial]    | Project Expo 3            |
-| 3:20-3:40  | [Classification]   | [Augmentation]   | [Saliency]       | [Segmentation]   | Project Expo 4            |
-| 3:40-4:00  | [Deep]              | [Visualization]  | [Optimization]     | [Language]        | Project Expo 5            |
-| 4:00-5:00  | [TensorFlow]        | [TensorFlow]     | [TensorFlow]     | [TensorFlow]      | [TensorFlow]           | 
-| 4:00-5:00  | [Project]             | [Project]          | [Project]         | [Project]            | [Closing] 3,4,5              | 
-| 5:00-5:20  | [Backpropagation]   | [ImageNet]       | [Objects]         |  [Video]      | Project Expo 1         |
-| 5:20-5:40  | [Training]          | [Transfer]       | [Faces]         |  [Medical]   | Project Expo 2           |
-| 5:40-6:00  | [Frameworks]        | [Recurrent]      | [Ranking]          |  [Attention]      | Break               |
-| 6:00-7:00  | [Project]               | [Project]        | [Project]       | [Project]            | [Closing] 1,2             |
-| 6:00-7:00  | [TensorFlow]        | [TensorFlow]     | [TensorFlow] JT     | [TensorFlow]  JT   | [TensorFlow]           |
+| 3:00-3:20  | [Welcome]             | [Memory]        | [Unsupervised]     | [Adversarial]    | Project Expo 3            |
+| 3:20-3:40  | [Classification]      | [Augmentation]   | [Saliency]       | [Segmentation]   | Project Expo 4            |
+| 3:40-4:00  | [Deep]                | [Visualization]  | [Optimization]     | [Language]        | Project Expo 5            |
+| 4:00-5:00  | [TensorFlow]          | [TensorFlow]     | [TensorFlow]     | [TensorFlow]      | Invited talk          | 
+| 4:00-5:00  | [Project]             | [Project]          | [Project]         | [Project]      | Invited talk              | 
+| 5:00-5:20  | [Backpropagation]     | [ImageNet]       | [Objects]         |  [Video]      | Project Expo 1         |
+| 5:20-5:40  | [Training]            | [Transfer]       | [Faces]         |  [Medical]   | Project Expo 2           |
+| 5:40-6:00  | [Invited talk]        | [Recurrent]      | [Ranking]          |  [Attention]      | Break               |
+| 6:00-7:00  | [Project]             | [Project]        | [Project]       | [Project]            | [Closing]             |
+| 6:00-7:00  | [TensorFlow]          | [TensorFlow]     | [TensorFlow]      | [TensorFlow]     | [Closing]           |
 
 [Welcome]: welcome
 [Classification]: classification
@@ -258,28 +121,41 @@ Master students together with some bachelor students organized in teams of five 
 * ECTS credits: 2.5 (Phd & master) / 2 (bachelor) (corresponds to **full-time dedication** during the week course)
 * Teaching language: English
 * The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
-* Class Dates: 4-8 July, 2016
+* Class Dates: 21-27 June, 2017
 * Class Schedule: 3-7pm (you will need 6 extra hours a day for homework during the week course)
-* Capacity: 14 MSc students + 16 BSc students
+* Capacity: 15 MSc students + 15 BSc students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
 
 ## Registration
 
-Registration is **sold out** for this edition of the seminar. The 30 available seats were covered by UPC TelecomBCN students.
+Registration procedure depends on the student profile:
 
-We greatly appreciate the interest of several other students who could not register. We are planning a new edition of this seminar for June-July 2017. A new seminar on [Deep Learning for Speech and Language](https://telecombcn-dl.github.io/2017-dlsl/) is also planned for January 2017.
-
-You are also encouraged to share your questions and solution in the [public issues](https://github.com/imatge-upc/dlcv-2016/issues) section for future reference and quality improvement of the course.
-
-## Video recordings
-
-Sessions will be recorded in video and posted afterwards, together with the slides.
+* **Master and Phd students at UPC:** Follow [these instructions](http://etsetb.upc.edu/ca/estudis/curs-actual/seminaris/seminars-masters-telecom-electronic-engineering-pla-92) provided by ETSETB academic office. An extra period of registration is expected to open during June 2017.
+* **Bachelor students at UPC:** Follow [these instructions](http://etsetb.upc.edu/ca/estudis/curs-actual/seminaris/seminaris-dels-graus) provided by ETSETB academic office. An extra period of registration is expected to open during June 2017.
+* **Mobility students:** If your host institution has signed an agreement with UPC ETSETB Telecom BCN school, you can request a mobility from your host institution and sign up for the course under the same conditions as UPC Phd, master or bachelor students.
+* **Visiting students:** You must apply for being accepted in the course and cover the 100% cost of the ECTS credits, without the support of the public funds. This corresponds to 143,08 € per ECTS credit (Summer 2016). If you are interested in this option, please contact the [ETSETB Telecom BCN academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta), with an e-mail to
+ secretaria@etsetb.upc.edu or calling at 93 405 4174 / 93 401 6772 / 93 401 5966 or 93 401 6750 in the morning (Monday to Thursday from 11 to 14 and Fridays from 11 to 13) or noons (Wednesdays and Thursdays from 16 to 17h).
 
 ## Contact
 
 This term we will be using [Piazza](https://piazza.com) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
 
 Find us at the [class page](https://piazza.com/upc/summer2016/230360/home).
+
+## Previous and similar editions from the instructors
+
+* [Deep Learning for Computer Vision][DLCV2016]. UPC TelecomBCN 2016.
+* [Deep Learning for Speech and Language][DLSL2017]. UPC TelecomBCN 2017.
+* Xavier Giro-i-Nieto, "Deep learning for computer vision: [Image], [Object], [Videos] Analytics and [Beyond]". LaSalle URL. May 2016.
+
+[DLCV2016]: http://imatge-upc.github.io/telecombcn-2016-dlcv/
+[DLSL2017]: https://telecombcn-dl.github.io/2017-dlsl/
+
+[Image]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-14-image-analytics-lasalle-2016
+[Object]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-24-object-analytics-lasalle-2016
+[Videos]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016
+[Beyond]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-44-beyond-vision-lasalle-2016
+
 
 ## Related courses
 
@@ -290,18 +166,10 @@ Find us at the [class page](https://piazza.com/upc/summer2016/230360/home).
 * Yann LeCun, ["Deep Learning: Nine Lectures at Collège de France"](http://cilvr.nyu.edu/doku.php?id=courses%3Adeeplearning-cdf2016%3Astart). Collège de France, Spring 2016. [[Facebook page](https://www.facebook.com/deeplearningcdf/?fref=nf)]
 * Dhruv Batra, ["ECE 6504: Deep learning for perception"](https://computing.ece.vt.edu/~f15ece6504/). Virginia Tech, Fall 2015.
 * Vincent Vanhoucke, Arpan Chakraborty, ["Deep Learning"](https://www.udacity.com/course/deep-learning--ud730). Google 2016.
-* Xavier Giro-i-Nieto, "Deep learning for computer vision: [Image], [Object], [Videos] Analytics and [Beyond]". LaSalle URL. May 2016.
 * German Ros, Joost van de Weijer, Marc Masana, Yaxing Wang, ["Hands-on Deep Learning with Matconvnet"](http://www.cvc.uab.es/~gros/index.php/hands-on-deep-learning-with-matconvnet/). Computer Vision Center (CVC) 2015.
 
 
-[Image]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-14-image-analytics-lasalle-2016
-[Object]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-24-object-analytics-lasalle-2016
-[Videos]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016
-[Beyond]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-44-beyond-vision-lasalle-2016
-
-
 ## Acknowledgements
-
 
 |:--|:-:|
 | This course is co-funded by the Erasmus+ programme from the European Union | ![logo-erasmus] |
