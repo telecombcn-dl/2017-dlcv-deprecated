@@ -56,26 +56,29 @@ Deep learning technologies are at the core of the current revolution in artifici
 The seminar includes four practical sessions on [Caffe2](https://caffe2.ai/), the Open Source Deep Learning Framework developed by [Facebook Research](https://research.fb.com/). 
 
 ## Invited talks
-This 2017 edition of the seminar will include invited talks:
+This 2017 edition of the seminar will include two invited talks:
 
 ### [Jordi Torres](http://jorditorres.org/), from [Barcelona SuperComputing Center](http://www.bsc.es).
+
+### [Elisenda Bou](https://www.linkedin.com/in/elisendabou/), from [Vilynx](http://www.vilynx.com/).
 
 ## Temptative Schedule
 
 | When       | Wednesday 21          | Thursday 22      | Friday 23         | Monday 26         | Tuesday 27                |
 |:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
-| 3:00-3:20  | [Welcome]             | [Memory]        | [Unsupervised]     | [Adversarial]    | Project Expo 3            |
-| 3:20-3:40  | [JordiTorres]           | [Augmentation]   | [Saliency]       | [Segmentation]   | Project Expo 4            |
-| 3:40-4:00  | [JordiTorres]           | [Visualization]  | [Optimization]     | [Language]        | Project Expo 5            |
-| 4:00-5:00  | [Caffe2]              | [Caffe2]         | [Caffe2]           | [Caffe2]      | Invited talk          | 
-| 4:00-5:00  | [Project]             | [Project]          | [Project]         | [Project]      | Invited talk              | 
-| 5:00-5:20  | [Learning]            | [ImageNet]       | [Objects]         |  [Video]      | Project Expo 1         |
-| 5:20-5:40  | [Deep]                | [Transfer]       | [Faces]         |  [Medical]   | Project Expo 2           |
-| 5:40-6:00  | [Training]           | [Recurrent]      | [Ranking]          |  [Attention]      | Break               |
+| 3:00-3:20  | [Welcome]             | [Memory]        | [Unsupervised]     | [Adversarial]          | Project expos            |
+| 3:20-3:40  | [JordiTorres]           | [Augmentation]   | [Saliency]       | [Segmentation]        | Project expos             |
+| 3:40-4:00  | [JordiTorres]           | [Visualization]  | [Optimization]     | [Language]          | Project expos             |
+| 4:00-5:00  | [Caffe2]              | [Caffe2]         | [Caffe2]           | [Caffe2]              | Project expos           | 
+| 4:00-5:00  | [Project]             | [Project]          | [Project]         | [Project]            | Project expos               | 
+| 5:00-5:20  | [Learning]            | [ImageNet]       | [Objects]         |  [Video]               | Project expos         |
+| 5:20-5:40  | [Deep]                | [Transfer]       | [Faces]          |  [Medical]               | Project expos            |
+| 5:40-6:00  | [Training]           | [Recurrent]      | [Ranking]          |  [Attention]           | [ElisendaBou]               |
 | 6:00-7:00  | [Project]             | [Project]        | [Project]       | [Project]            | [Closing]             |
 | 6:00-7:00  | [Caffe2]              | [Caffe2]         | [Caffe2]           | [Caffe2]     | [Closing]           |
 
 [JordiTorres]: http://jorditorres.org/
+[ElisendaBou]: http://www.vilynx.com/
 
 
 [Welcome]: welcome
