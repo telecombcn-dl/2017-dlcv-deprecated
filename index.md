@@ -51,36 +51,38 @@ Deep learning technologies are at the core of the current revolution in artifici
 [logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
 [logo-dcu]: img/logos/dcu.png "Dublin City University"
 
-## Hands on TensorFlow
+## Hands on Caffe2
 
-The seminar includes four practical sessions on [TensorFlow](https://www.tensorflow.org/), the Open Source Software Library for Machine Intelligence developed by Google. 
+The seminar includes four practical sessions on [Caffe2](https://caffe2.ai/), the Open Source Deep Learning Framework developed by [Facebook Research](https://research.fb.com/). 
 
 ## Invited talks
 This 2017 edition of the seminar will include invited talks:
 
 ### [Jordi Torres](http://jorditorres.org/), from [Barcelona SuperComputing Center](http://www.bsc.es).
 
-
-## Preliminary Schedule
+## Temptative Schedule
 
 | When       | Wednesday 21          | Thursday 22      | Friday 23         | Monday 26         | Tuesday 27                |
 |:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
 | 3:00-3:20  | [Welcome]             | [Memory]        | [Unsupervised]     | [Adversarial]    | Project Expo 3            |
-| 3:20-3:40  | [Classification]      | [Augmentation]   | [Saliency]       | [Segmentation]   | Project Expo 4            |
-| 3:40-4:00  | [Deep]                | [Visualization]  | [Optimization]     | [Language]        | Project Expo 5            |
-| 4:00-5:00  | [TensorFlow]          | [TensorFlow]     | [TensorFlow]     | [TensorFlow]      | Invited talk          | 
+| 3:20-3:40  | [JordiTorres]           | [Augmentation]   | [Saliency]       | [Segmentation]   | Project Expo 4            |
+| 3:40-4:00  | [JordiTorres]           | [Visualization]  | [Optimization]     | [Language]        | Project Expo 5            |
+| 4:00-5:00  | [Caffe2]              | [Caffe2]         | [Caffe2]           | [Caffe2]      | Invited talk          | 
 | 4:00-5:00  | [Project]             | [Project]          | [Project]         | [Project]      | Invited talk              | 
-| 5:00-5:20  | [Backpropagation]     | [ImageNet]       | [Objects]         |  [Video]      | Project Expo 1         |
-| 5:20-5:40  | [Training]            | [Transfer]       | [Faces]         |  [Medical]   | Project Expo 2           |
-| 5:40-6:00  | [Invited talk]        | [Recurrent]      | [Ranking]          |  [Attention]      | Break               |
+| 5:00-5:20  | [Learning]            | [ImageNet]       | [Objects]         |  [Video]      | Project Expo 1         |
+| 5:20-5:40  | [Deep]                | [Transfer]       | [Faces]         |  [Medical]   | Project Expo 2           |
+| 5:40-6:00  | [Training]           | [Recurrent]      | [Ranking]          |  [Attention]      | Break               |
 | 6:00-7:00  | [Project]             | [Project]        | [Project]       | [Project]            | [Closing]             |
-| 6:00-7:00  | [TensorFlow]          | [TensorFlow]     | [TensorFlow]      | [TensorFlow]     | [Closing]           |
+| 6:00-7:00  | [Caffe2]              | [Caffe2]         | [Caffe2]           | [Caffe2]     | [Closing]           |
+
+[JordiTorres]: http://jorditorres.org/
+
 
 [Welcome]: welcome
-[Classification]: classification
+[Learning]: learning
 [Deep]: deep
 
-[Tensorflow]: https://github.com/jorditorresBCN/FirstContactWithTensorFlow
+[Caffe2]: https://caffe2.ai/
 
 [Backpropagation]: backprop
 [Training]: training
