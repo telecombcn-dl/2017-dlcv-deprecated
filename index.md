@@ -16,7 +16,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 | ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Elisa Sayrol][ElisaSayrol-photo]  | ![AmaiaSalvador][AmaiaSalvador-photo]  | ![VeronicaVilaplana][VeronicaVilaplana-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Amaia Salvador (AS)][AmaiaSalvador-web] | [VeronicaVilaplana (VV)][VeronicaVilaplana-web]  | [Kevin McGuinness (KM)][KevinMcGuinness-web]     |
+| [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Amaia Salvador (AS)][AmaiaSalvador-web] | [Veronica Vilaplana (VV)][VeronicaVilaplana-web]  | [Kevin McGuinness (KM)][KevinMcGuinness-web]     |
 
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 [ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
