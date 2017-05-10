@@ -51,9 +51,12 @@ Deep learning technologies are at the core of the current revolution in artifici
 [logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
 [logo-dcu]: img/logos/dcu.png "Dublin City University"
 
+<!-- Do not display this at the moment
 ## Hands on Caffe2
 
 The seminar includes four practical sessions on [Caffe2](https://caffe2.ai/), the Open Source Deep Learning Framework developed by [Facebook Research](https://research.fb.com/). 
+
+-->
 
 ## Invited talks
 This 2017 edition of the seminar will include two invited talks:
@@ -69,13 +72,13 @@ This 2017 edition of the seminar will include two invited talks:
 | 3:00-3:20  | [Welcome]             | [Memory]        | [Unsupervised]     | [Adversarial]          | Project expos            |
 | 3:20-3:40  | [JordiTorres]           | [Augmentation]   | [Saliency]       | [Segmentation]        | Project expos             |
 | 3:40-4:00  | [JordiTorres]           | [Visualization]  | [Optimization]     | [Language]          | Project expos             |
-| 4:00-5:00  | [Caffe2]              | [Caffe2]         | [Caffe2]           | [Caffe2]              | Project expos           | 
+| 4:00-5:00  | [Lab]                 | [Lab]         | [Lab]           | [Lab]              | Project expos           | 
 | 4:00-5:00  | [Project]             | [Project]          | [Project]         | [Project]            | Project expos               | 
 | 5:00-5:20  | [Learning]            | [ImageNet]       | [Objects]         |  [Video]               | Project expos         |
 | 5:20-5:40  | [Deep]                | [Transfer]       | [Faces]          |  [Medical]               | Project expos            |
 | 5:40-6:00  | [Training]           | [Recurrent]      | [Ranking]          |  [Attention]           | [ElisendaBou]               |
 | 6:00-7:00  | [Project]             | [Project]        | [Project]       | [Project]            | [Closing]             |
-| 6:00-7:00  | [Caffe2]              | [Caffe2]         | [Caffe2]           | [Caffe2]     | [Closing]           |
+| 6:00-7:00  | [Lab]              | [Lab]         | [Lab]           | [Lab]     | [Closing]           |
 
 [JordiTorres]: http://jorditorres.org/
 [ElisendaBou]: http://www.vilynx.com/
