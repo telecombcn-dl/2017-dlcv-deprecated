@@ -14,20 +14,20 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 ## Course Instructors
 
-| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Elisa Sayrol][ElisaSayrol-photo]  | ![AmaiaSalvador][AmaiaSalvador-photo]  | ![Eva Mohedano][EvaMohedano-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  |
+| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Elisa Sayrol][ElisaSayrol-photo]  | ![AmaiaSalvador][AmaiaSalvador-photo]  | ![VeronicaVilaplana][VeronicaVilaplana-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Amaia Salvador (AS)][AmaiaSalvador-web] | [Eva Mohedano (EM)][EvaMohedano-web]  | [Kevin McGuinness (KM)][KevinMcGuinness-web]     |
+| [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Amaia Salvador (AS)][AmaiaSalvador-web] | [VeronicaVilaplana (VV)][VeronicaVilaplana-web]  | [Kevin McGuinness (KM)][KevinMcGuinness-web]     |
 
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
 [ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
 [AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
-[EvaMohedano-web]: https://www.insight-centre.org/users/eva-mohedano
+[VeronicaVilaplana-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
 [KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
 
 [XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
 [ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
 [AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
-[EvaMohedano-photo]: img/instructors/EvaMohedano.jpg "Eva Mohedano"
+[VeronicaVilaplana-photo]: img/instructors/VeronicaVilaplana.jpg "Veronica Vilaplana"
 [KevinMcGuinness-photo]: img/instructors/Kevin160x160.jpg "Kevin McGuinness"
 
 
