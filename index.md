@@ -87,45 +87,6 @@ This 2017 edition of the seminar will include two invited talks:
 [ElisendaBou]: http://www.vilynx.com/
 
 
-[Welcome]: welcome
-[Learning]: learning
-[Deep]: deep
-
-[Caffe2]: https://caffe2.ai/
-
-[Backpropagation]: backprop
-[Training]: training
-[Frameworks]: frameworks
-
-[Memory]: memory
-[Augmentation]: augmentation
-[Visualization]: visualization
-
-[ImageNet]: imagenet
-[Transfer]: transfer
-[Attention]: attention
-
-[Unsupervised]: unsupervised
-[Ranking]: rankingv
-[Optimization]: optimization
-
-[Saliency]: saliency
-[Objects]: objects
-[Faces]: faces
-
-[Recurrent]: recurrent
-[Adversarial]: adversarial
-[Medical]: medical
-
-[Language]: language
-[Segmentation]: segmentation
-[Video]: video
-
-[Project]: project
-[Closing]: https://github.com/imatge-upc/telecombcn-2016-dlcv/raw/gh-pages/slides/D5P-closing.pdf
-
-
-
 
 ## Practical
 * Course code: [230360](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230360.pdf) (Phd & master) / [230324](http://www.etsetb.upc.edu/ca/shared/curs-actual/seminaris/Fitxa_guia_docent_seminari_grau_IDLCV.pdf) (Bachelor)
@@ -183,8 +144,16 @@ Find us at the [class page](https://piazza.com/upc/summer2016/230360/home).
 ## Acknowledgements
 
 |:--|:-:|
-| This course is co-funded by the Erasmus+ programme from the European Union | ![logo-erasmus] |
+| [Persontyle][web-persontyle]                                 | ![logo-persontyle] |
+| [Erasmus+ programme from the European Union][web-erasmus]    | ![logo-erasmus] |
+| [Google Cloud Platform Education Grants][web-googlecloud]    | ![logo-googlecloud] |
 
 
-[logo-erasmus]: img/logos/erasmus.jpg "Erasmus logo"
+[web-persontyle]: http://www.persontyle.com/
+[web-erasmus]: https://ec.europa.eu/programmes/erasmus-plus/node_en
+[web-googlecloud]: https://cloud.google.com/edu/
+
+[logo-persontyle]: img/logos/persontyle675x200.png "Persontyle logo"
+[logo-erasmus]: img/logos/erasmus700x200.jpg "Erasmus logo"
+[logo-googlecloud]: img/logos/googlecloud486x300.png "Google Cloud logo"
 
