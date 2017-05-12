@@ -14,21 +14,26 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 ## Course Instructors
 
-| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Elisa Sayrol][ElisaSayrol-photo]  | ![AmaiaSalvador][AmaiaSalvador-photo]  | ![VeronicaVilaplana][VeronicaVilaplana-photo]  | ![Kevin McGuinness][KevinMcGuinness-photo]  |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Amaia Salvador (AS)][AmaiaSalvador-web] | [Veronica Vilaplana (VV)][VeronicaVilaplana-web]  | [Kevin McGuinness (KM)][KevinMcGuinness-web]     |
+| ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Kevin McGuinness][KevinMcGuinness-photo] | ![AmaiaSalvador][AmaiaSalvador-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![RamonMorros][RamonMorros-photo]  | ![VeronicaVilaplana][VeronicaVilaplana-photo]  | ![JavierRuiz][JavierRuiz-photo] |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Kevin McGuinness (KM)][KevinMcGuinness-web]  | [Amaia Salvador (AS)][AmaiaSalvador-web]   | [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Ramon Morros (RM)][VeronicaVilaplana-web]  | [Veronica Vilaplana (VV)][VeronicaVilaplana-web]   | [Javier Ruiz (JR)][JavierRuiz-web]  
 
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
-[ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
-[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
-[VeronicaVilaplana-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
 [KevinMcGuinness-web]: https://www.insight-centre.org/users/kevin-mcguinness
+[AmaiaSalvador-web]: https://imatge.upc.edu/web/people/amaia-salvador
+[ElisaSayrol-web]: https://imatge.upc.edu/web/people/elisa-sayrol
+[RamonMorros-web]: https://imatge.upc.edu/web/people/josep-ramon-morros
+[VeronicaVilaplana-web]: https://imatge.upc.edu/web/people/veronica-vilaplana
+[JavierRuiz-web]: https://imatge.upc.edu/web/people/javier-ruiz-hidalgo
+
 
 [XavierGiro-photo]: img/instructors/XavierGiro.jpg "Xavier Giro-i-Nieto"
-[ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
-[AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
-[VeronicaVilaplana-photo]: img/instructors/VeronicaVilaplana.jpg "Veronica Vilaplana"
 [KevinMcGuinness-photo]: img/instructors/Kevin160x160.jpg "Kevin McGuinness"
+[AmaiaSalvador-photo]: img/instructors/AmaiaSalvador.jpg "Amaia Salvador"
+[ElisaSayrol-photo]: img/instructors/ElisaSayrol.jpg "Elisa Sayrol"
+[RamonMorros-photo]: img/instructors/RamonMorros.jpg "Ramon Morros"
+[VeronicaVilaplana-photo]: img/instructors/VeronicaVilaplana.jpg "Veronica Vilaplana"
+[JavierRuiz-photo]: img/instructors/JavierRuiz.jpg "Javier Ruiz"
 
 
 ## Organizers
