@@ -64,26 +64,21 @@ The seminar includes four practical sessions on [Caffe2](https://caffe2.ai/), th
 ## Invited talks
 This 2017 edition of the seminar will include two invited talks:
 
-### [Jordi Torres](http://jorditorres.org/), from [Barcelona SuperComputing Center](http://www.bsc.es).
-
 ### [Elisenda Bou](https://www.linkedin.com/in/elisendabou/), from [Vilynx](http://www.vilynx.com/).
 
 ## Temptative Schedule
 
-| When       | Wednesday 21          | Thursday 22      | Friday 23         | Monday 26         | Tuesday 27                |
-|:----------:|:---------------------:|:------------------:|:-------------------:|:------------------:|:------------------------:|
-| 3:00-3:20  | [Welcome]             | [Memory]        | [Unsupervised]     | [Adversarial]          | Project expos            |
-| 3:20-3:40  | [JordiTorres]           | [Augmentation]   | [Saliency]       | [Segmentation]        | Project expos             |
-| 3:40-4:00  | [JordiTorres]           | [Visualization]  | [Optimization]     | [Language]          | Project expos             |
-| 4:00-5:00  | [Lab]                 | [Lab]         | [Lab]           | [Lab]              | Project expos           | 
-| 4:00-5:00  | [Project]             | [Project]          | [Project]         | [Project]            | Project expos               | 
-| 5:00-5:20  | [Learning]            | [ImageNet]       | [Objects]         |  [Video]               | Project expos         |
-| 5:20-5:40  | [Deep]                | [Transfer]       | [Faces]          |  [Medical]               | Project expos            |
-| 5:40-6:00  | [Training]           | [Recurrent]      | [Ranking]          |  [Attention]           | [ElisendaBou]               |
-| 6:00-7:00  | [Project]             | [Project]        | [Project]       | [Project]            | [Closing]             |
-| 6:00-7:00  | [Lab]              | [Lab]         | [Lab]           | [Lab]     | [Closing]           |
+| When       | Wednesday 21          | Thursday 22       | Friday 23         | Monday 26         | Tuesday 27               |
+|:----------:|:---------------------:|:-----------------:|:----------------:|:------------------:|:------------------------:|
+| 3:00-3:20  | Welcome               | Optimization      | Segmentation     | 3D                 | Project expos            |
+| 3:20-3:40  | Perceptron            | Recurrent         | Incremental      | Saliency           | Project expos            |
+| 3:40-4:00  | ConvNets              | Transfer          | Medical          | Video              | Project expos            |
+| 4:00-4:20  | ImageNet              | Object            | Generative       | Retrieval          | Project expos            |
+| 4:20-4:40  | Training              | Faces             | Language         | Predictive         | Project expos            |
+| 4:40-5:00  | Visualization         | Unsupervised      | Attention        | Audio              | Project expos            |
+| 5:00-6:00  | Lab                   | Lab               | Lab              | Lab                | Elisenda Bou             |
+| 6:00-7:00  | Project               | Project           | Project          | Project            | Closing                  | 
 
-[JordiTorres]: http://jorditorres.org/
 [ElisendaBou]: http://www.vilynx.com/
 
 
