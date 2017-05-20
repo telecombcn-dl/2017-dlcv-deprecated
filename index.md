@@ -62,7 +62,7 @@ The seminar includes four practical sessions on [Caffe2](https://caffe2.ai/), th
 -->
 
 ## Invited talks
-This 2017 edition of the seminar will include two invited talks:
+This 2017 edition of the seminar will include an invited talk:
 
 ### [Elisenda Bou](https://www.linkedin.com/in/elisendabou/), from [Vilynx](http://www.vilynx.com/).
 
