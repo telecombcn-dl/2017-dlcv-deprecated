@@ -90,7 +90,7 @@ This 2017 edition of the seminar will include an invited talk:
 * The course is offered for both master and bachelor students, but under two study programmes adapted to each profile.
 * Class Dates: 21-27 June, 2017
 * Class Schedule: 3-7pm (you will need 6 extra hours a day for homework during the week course)
-* Capacity: 15 MSc students + 15 BSc students
+* Capacity: 20 MSc students + 10 BSc students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
 
 ## Registration
