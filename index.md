@@ -6,9 +6,9 @@ feature-img: "img/heading_950x200.png"
 hide: true
 ---
 
-# Deep Learning for Computer Vision Barcelona
+# 2nd Summer School on Deep Learning for Computer Vision Barcelona
 
-### Summer seminar UPC TelecomBCN (June 21-27, 2017)
+### Seminar at UPC ETSETB TelecomBCN (June 21-27, 2017)
 
 Deep learning technologies are at the core of the current revolution in artificial intelligence for multimedia data analysis. The convergence of big annotated data and affordable GPU hardware has allowed the training of neural networks for data analysis tasks which had been addressed until now with hand-crafted features. Architectures such as convolutional neural networks, recurrent neural networks and Q-nets for reinforcement learning have shaped a brand new scenario in signal processing. This course will cover the basic principles and applications of deep learning to computer vision problems, such as image classification, object detection or text captioning.
 
@@ -96,11 +96,10 @@ This 2017 edition of the seminar will include an invited talk:
 
 Registration procedure depends on the student profile:
 
-* **Master and Phd students at UPC:** Follow [these instructions](http://etsetb.upc.edu/ca/estudis/curs-actual/seminaris/seminars-masters-telecom-electronic-engineering-pla-92) provided by ETSETB academic office. An extra period of registration is expected to open during June 2017.
-* **Bachelor students at UPC:** Follow [these instructions](http://etsetb.upc.edu/ca/estudis/curs-actual/seminaris/seminaris-dels-graus) provided by ETSETB academic office. An extra period of registration is expected to open during June 2017.
-* **Mobility students:** If your host institution has signed an agreement with UPC ETSETB Telecom BCN school, you can request a mobility from your host institution and sign up for the course under the same conditions as UPC Phd, master or bachelor students.
-* **Visiting students:** You must apply for being accepted in the course and cover the 100% cost of the ECTS credits, without the support of the public funds. This corresponds to 143,08 € per ECTS credit (Summer 2016). If you are interested in this option, please contact the [ETSETB Telecom BCN academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta), with an e-mail to
- secretaria@etsetb.upc.edu or calling at 93 405 4174 / 93 401 6772 / 93 401 5966 or 93 401 6750 in the morning (Monday to Thursday from 11 to 14 and Fridays from 11 to 13) or noons (Wednesdays and Thursdays from 16 to 17h).
+* **Master and Bachelor students at ETSETB Telecom:** Follow [these instructions](http://etsetb.upc.edu/ca/estudis/curs-actual/seminaris/seminaris-dels-graus) provided by ETSETB academic office. An extra period of registration is expected to open during June 2017. An extra period of registration will be available between May 29 and June 2.
+* **Mobility students:** If your host institution has signed an agreement with UPC ETSETB Telecom BCN school, you can request a mobility from your host institution and sign up for the course under the same conditions as ETSETB students.
+* **Students at UPC but not in ETSETB:** Contact the ETSETB academic office before the extraordinary registration period and express your interest in the course. Once the registration procedure for ETSETB is completed, available seats will be allocated to external UPC applicants prioritzied on their profile.
+* **Non UPC nor mobility students:** You must apply for being accepted in the course and cover the 100% cost of the ECTS credits, without the support of the public funds. This corresponds to 143,08 € per ECTS credit (Summer 2016). If you are interested in this option, please contact the [ETSETB Telecom BCN academic office](http://www.etsetb.upc.edu/ca/els-serveis/secretaria-oberta), with an e-mail to secretaria@etsetb.upc.edu or calling at 93 405 4174 / 93 401 6772 / 93 401 5966 or 93 401 6750 in the morning (Monday to Thursday from 11 to 14 and Fridays from 11 to 13) or noons (Wednesdays and Thursdays from 16 to 17h).
 
 ## Contact
 
@@ -110,12 +109,15 @@ Find us at the [class page](https://piazza.com/upc/summer2016/230360/home).
 
 ## Previous and similar editions from the instructors
 
+
 * [Deep Learning for Computer Vision][DLCV2016]. UPC TelecomBCN 2016.
 * [Deep Learning for Speech and Language][DLSL2017]. UPC TelecomBCN 2017.
+* [Deep Learning for Multimedia][DLMM2017]. Inisght Dublin City University 2017.
 * Xavier Giro-i-Nieto, "Deep learning for computer vision: [Image], [Object], [Videos] Analytics and [Beyond]". LaSalle URL. May 2016.
 
 [DLCV2016]: http://imatge-upc.github.io/telecombcn-2016-dlcv/
 [DLSL2017]: https://telecombcn-dl.github.io/2017-dlsl/
+[DLMM2017]: https://telecombcn-dl.github.io/dlmm-2017-dcu/
 
 [Image]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-14-image-analytics-lasalle-2016
 [Object]: http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-24-object-analytics-lasalle-2016
