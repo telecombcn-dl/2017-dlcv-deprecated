@@ -71,11 +71,11 @@ This 2017 edition of the seminar will include an invited talk:
 | When       | Wednesday 21          | Thursday 22         | Friday 23         | Monday 26          | Tuesday 27               |
 |:----------:|:---------------------:|:-------------------:|:-----------------:|:------------------:|:------------------------:|
 | 3:00-3:20  | Welcome (XG)          | Optimization (KM)   | Segmentation (VV) | 3D (JR)            | Project expos            |
-| 3:20-3:40  | Perceptron (KM)       | Recurrent (XG)      | Incremental (RM)  | Saliency (KM)      | Project expos            |
-| 3:40-4:00  | ConvNets (ES)         | Transfer (KM)       | Medical (VV)      | Video (XG)         | Project expos            |
-| 4:00-4:20  | ImageNet (XG)         | Object (AS)         | Generative (KM)   | Retrieval (KM)     | Project expos            |
-| 4:20-4:40  | Training (KM)         | Faces (ES)          | Language (XG)     | Predictive (XG)    | Project expos            |
-| 4:40-5:00  | Visualization (AS)    | Unsupervised (KM)   | Attention (AS)    | Audio (AS)         | Project expos            |
+| 3:20-3:40  | Perceptron (KM)       | Recurrent (XG)      | Incremental (RM)  | Video (XG)         | Project expos            |
+| 3:40-4:00  | ConvNets (ES)         | Transfer (KM)       | Medical (VV)      | Saliency (KM)      | Project expos            |
+| 4:00-4:20  | ImageNet (XG)         | Object (AS)         | Generative (KM)   | Predictive (XG)    | Project expos            |
+| 4:20-4:40  | Training (KM)         | Faces (ES)          | Language (XG)     | Retrieval (KM)     | Project expos            |
+| 4:40-5:00  | Visualization (AS)    | Unsupervised (KM)   | Attention (AS)    | Audio (XG)         | Project expos            |
 | 5:00-6:00  | Lab                   | Lab                 | Lab               | Lab                | Elisenda Bou             |
 | 6:00-7:00  | Project               | Project             | Project           | Project            | Closing                  | 
 
