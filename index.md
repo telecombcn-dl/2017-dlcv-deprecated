@@ -62,7 +62,9 @@ The seminar includes four practical sessions on [Caffe2](https://caffe2.ai/), th
 -->
 
 ## Invited talks
-This 2017 edition of the seminar will include an invited talk:
+This 2017 edition of the seminar will include two invited talks on Tuesday 27 at 5pm:
+
+### [Àgata Lapedriza](http://sunai.uoc.edu/~agata/), from [SUNAI UOC](http://sunai.uoc.edu/) / [CSAIL MIT](http://www.csail.mit.edu/).
 
 ### [Elisenda Bou](https://www.linkedin.com/in/elisendabou/), from [Vilynx](http://www.vilynx.com/).
 
@@ -75,8 +77,8 @@ This 2017 edition of the seminar will include an invited talk:
 | 3:40-4:00  | ConvNets (ES)         | Transfer (KM)       | Medical (VV)      | Saliency (KM)      | Project expos            |
 | 4:00-4:20  | ImageNet (XG)         | Object (AS)         | Generative (KM)   | Predictive (XG)    | Project expos            |
 | 4:20-4:40  | Training (KM)         | Faces (ES)          | Language (XG)     | Retrieval (KM)     | Project expos            |
-| 4:40-5:00  | Visualization (AS)    | Unsupervised (KM)   | Attention (AS)    | Audio (XG)         | Project expos            |
-| 5:00-6:00  | Lab                   | Lab                 | Lab               | Lab                | Elisenda Bou             |
+| 4:40-5:00  | Visualization (AS)    | Unsupervised (KM)   | Attention (AS)    | Audio (XG)         | Project expos            |
+| 5:00-6:00  | Lab                   | Lab                 | Lab               | Lab                | Invited talks              |
 | 6:00-7:00  | Project               | Project             | Project           | Project            | Closing                  | 
 
 [ElisendaBou]: http://www.vilynx.com/
