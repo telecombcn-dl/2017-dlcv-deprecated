@@ -61,8 +61,8 @@ The seminar includes four practical sessions on [Caffe2](https://caffe2.ai/), th
 
 -->
 
-## Invited talks
-This 2017 edition of the seminar will include two invited talks on Tuesday 27 at 5pm:
+## Open Lectures by Guest Speakers
+This 2017 edition of the seminar will include two invited talks on Tuesday 27 at 5pm, open to the general public:
 
 ### [Àgata Lapedriza](http://sunai.uoc.edu/~agata/), from [SUNAI UOC](http://sunai.uoc.edu/) / [CSAIL MIT](http://www.csail.mit.edu/).
 
@@ -80,9 +80,6 @@ This 2017 edition of the seminar will include two invited talks on Tuesday 27 at
 | 4:40-5:00  | Visualization (AS)    | Unsupervised (KM)   | Attention (AS)    | Audio (XG)         | Project expos            |
 | 5:00-6:00  | Lab                   | Lab                 | Lab               | Lab                | Invited talks              |
 | 6:00-7:00  | Project               | Project             | Project           | Project            | Closing                  | 
-
-[ElisendaBou]: http://www.vilynx.com/
-
 
 ## Practical
 * Course code: [230360](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230360.pdf) (Phd & master) / [230324](http://www.etsetb.upc.edu/ca/shared/curs-actual/seminaris/Fitxa_guia_docent_seminari_grau_IDLCV.pdf) (Bachelor)
