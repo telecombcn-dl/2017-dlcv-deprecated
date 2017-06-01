@@ -68,9 +68,22 @@ This 2017 edition of the seminar will include two invited talks on Tuesday 27 at
 
 ### [Elisenda Bou](https://www.linkedin.com/in/elisendabou/), from [Vilynx](http://www.vilynx.com/).
 
+| 5pm | ![Àgata Lapedriza][AgataLapedriza-photo] | [Àgata Lapedriza:][AgataLapedriza-web] Dr Lapedriza is an associate professor at the Universitat Oberta de Catalunya (UOC) and a researcher at the [SUnAI Lab](sunai-web), working on computer vision for scene understanding and affective computing. She is also a visiting researcher at the Massachusetts Institute of Technology (CSAIL, MIT), working with Prof. Antonio Torralba, and a member of the BCN Perceptual Computing Lab and the Computer Vision Center.
+
+|
+|:-:|:-:|:-:|
+| 5:40pm | ![Elisenda Bou][ElisendaBou-photo]    | [Elisenda Bou:][ElisendaBou-web] Dr Bou is the co-Founder and CTO of [Vilynx](vilynx-web), a startup devoted to change the way people consume online videos through machine Learning. Dr Bou is also an associate professor at the Universitat Politècnica de Catalunya (UPC), where she in in charge of several research lines on Machine Learning, Distributed Task Scheduling and Software for Nano-Satellite Constellations. Bou is also Lead SW Architect at UPC Nano-Satellite Lab (NanoSatLab) and collaborates with the MIT Aero-Astro Dept and the UMD Aerospace Engineering Dept. She was a recipient of the 2013 Google Faculty Research Awards.
+
+[AgataLapedriza-web]: http://sunai.uoc.edu/~agata/
+[sunai-web]: http://sunai.uoc.edu/
+
+[ElisendaBou-web]: https://www.linkedin.com/in/elisendabou/?ppe=1
+[vilynx-web]: http://www.vilynx.com/
+
+
 ## Temptative Schedule
 
-| When       | Wednesday 21          | Thursday 22         | Friday 23         | Monday 26          | Tuesday 27               |
+| When       | Wednesday 21          | Thursday 22         | Friday 23         | Monday 26          | Tuesday 27 (Open)        |
 |:----------:|:---------------------:|:-------------------:|:-----------------:|:------------------:|:------------------------:|
 | 3:00-3:20  | Welcome (XG)          | Optimization (KM)   | Segmentation (VV) | 3D (JR)            | Project expos            |
 | 3:20-3:40  | Perceptron (KM)       | Recurrent (XG)      | Incremental (RM)  | Video (XG)         | Project expos            |
@@ -78,7 +91,7 @@ This 2017 edition of the seminar will include two invited talks on Tuesday 27 at
 | 4:00-4:20  | ImageNet (XG)         | Object (AS)         | Generative (KM)   | Predictive (XG)    | Project expos            |
 | 4:20-4:40  | Training (KM)         | Faces (ES)          | Language (XG)     | Retrieval (KM)     | Project expos            |
 | 4:40-5:00  | Visualization (AS)    | Unsupervised (KM)   | Attention (AS)    | Audio (XG)         | Project expos            |
-| 5:00-6:00  | Lab                   | Lab                 | Lab               | Lab                | Invited talks              |
+| 5:00-6:00  | Lab                   | Lab                 | Lab               | Lab                | Guest speakers           |
 | 6:00-7:00  | Project               | Project             | Project           | Project            | Closing                  | 
 
 ## Practical
