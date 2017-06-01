@@ -61,8 +61,8 @@ The seminar includes four practical sessions on [Caffe2](https://caffe2.ai/), th
 
 -->
 
-## Open Lectures by Guest Speakers
-This 2017 edition of the seminar will include two invited talks on Tuesday 27 at 5pm, open to the general public:
+## Open Lectures by Guest Speakers (registration required)
+This 2017 edition of the seminar will include two invited talks on Tuesday 27 at 5pm, open to the general public. Attendees must [RSVP / register here](https://www.eventbrite.com/e/open-lecture-on-deep-learning-for-vision-agata-lapedriza-and-elisenda-bou-tickets-35049410731).
 
 | ![Àgata Lapedriza][AgataLapedriza-photo] | ![Elisenda Bou][ElisendaBou-photo] |
 |:-:|:-:|
