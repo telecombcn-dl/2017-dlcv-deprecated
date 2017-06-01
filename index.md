@@ -64,22 +64,17 @@ The seminar includes four practical sessions on [Caffe2](https://caffe2.ai/), th
 ## Open Lectures by Guest Speakers
 This 2017 edition of the seminar will include two invited talks on Tuesday 27 at 5pm, open to the general public:
 
-### [Àgata Lapedriza](http://sunai.uoc.edu/~agata/), from [SUNAI UOC](http://sunai.uoc.edu/) / [CSAIL MIT](http://www.csail.mit.edu/).
-
-### [Elisenda Bou](https://www.linkedin.com/in/elisendabou/), from [Vilynx](http://www.vilynx.com/).
-
-| 5pm | ![Àgata Lapedriza][AgataLapedriza-photo] | [Àgata Lapedriza:][AgataLapedriza-web] Dr Lapedriza is an associate professor at the Universitat Oberta de Catalunya (UOC) and a researcher at the [SUnAI Lab](sunai-web), working on computer vision for scene understanding and affective computing. She is also a visiting researcher at the Massachusetts Institute of Technology (CSAIL, MIT), working with Prof. Antonio Torralba, and a member of the BCN Perceptual Computing Lab and the Computer Vision Center.
-
-|
-|:-:|:-:|:-:|
-| 5:40pm | ![Elisenda Bou][ElisendaBou-photo]    | [Elisenda Bou:][ElisendaBou-web] Dr Bou is the co-Founder and CTO of [Vilynx](vilynx-web), a startup devoted to change the way people consume online videos through machine Learning. Dr Bou is also an associate professor at the Universitat Politècnica de Catalunya (UPC), where she in in charge of several research lines on Machine Learning, Distributed Task Scheduling and Software for Nano-Satellite Constellations. Bou is also Lead SW Architect at UPC Nano-Satellite Lab (NanoSatLab) and collaborates with the MIT Aero-Astro Dept and the UMD Aerospace Engineering Dept. She was a recipient of the 2013 Google Faculty Research Awards.
+| 5pm | ![Àgata Lapedriza][AgataLapedriza-photo] | [Àgata Lapedriza:][AgataLapedriza-web] Dr Lapedriza is an associate professor at the Universitat Oberta de Catalunya (UOC) and a researcher at the [SUnAI Lab](sunai-web), working on computer vision for scene understanding and affective computing. She is also a visiting researcher at the Massachusetts Institute of Technology (CSAIL, MIT), working with Prof. Antonio Torralba, and a member of the BCN Perceptual Computing Lab and the Computer Vision Center.|
+|:-:|:-:|:-|
+| 5:40pm | ![Elisenda Bou][ElisendaBou-photo]    | [Elisenda Bou:][ElisendaBou-web] Dr Bou is the co-Founder and CTO of [Vilynx](vilynx-web), a startup devoted to change the way people consume online videos through machine Learning. Dr Bou is also an associate professor at the Universitat Politècnica de Catalunya (UPC), where she in in charge of several research lines on Machine Learning, Distributed Task Scheduling and Software for Nano-Satellite Constellations. Bou is also Lead SW Architect at UPC Nano-Satellite Lab (NanoSatLab) and collaborates with the MIT Aero-Astro Dept and the UMD Aerospace Engineering Dept. She was a recipient of the 2013 Google Faculty Research Awards. |
 
 [AgataLapedriza-web]: http://sunai.uoc.edu/~agata/
 [sunai-web]: http://sunai.uoc.edu/
+[AgataLapedriza-photo]: img/guests/AgataLapedriza-160x160.jpg "AgataLapedriza"
 
 [ElisendaBou-web]: https://www.linkedin.com/in/elisendabou/?ppe=1
 [vilynx-web]: http://www.vilynx.com/
-
+[ElisendaBou-photo]: img/guests/ElisendaBou-160x160.jpg "Elisenda Bou"
 
 ## Temptative Schedule
 
