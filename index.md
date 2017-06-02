@@ -55,12 +55,15 @@ Deep learning technologies are at the core of the current revolution in artifici
 
 ## Teaching Assistants
 
-| ![Eric Arazo][EricArazo-photo] | 
-|:-:|
-| [Eric Arazo][EricArazo-web] |
+| ![Eric Arazo][EricArazo-photo] | ![Eduard Ramon][EduRamon-photo] | 
+|:-:|:-:|
+| [Eric Arazo][EricArazo-web] | [Eduard Ramon][EduRamon-web] |
 
 [EricArazo-web]: https://www.linkedin.com/in/eric-arazo-s%C3%A1nchez-230785bb/
 [EricArazo-photo]: img/assistants/EricArazo-160x160.jpg "Eric Arazo"
+
+[EduRamon-web]: https://www.linkedin.com/in/eduard-ramon-maldonado-71951359/
+[EduRamon-photo]: img/assistants/EduRamon-160x160.jpg "Eduard Ramon"
 
 
 
