@@ -12,6 +12,24 @@ hide: true
 
 Deep learning technologies are at the core of the current revolution in artificial intelligence for multimedia data analysis. The convergence of big annotated data and affordable GPU hardware has allowed the training of neural networks for data analysis tasks which had been addressed until now with hand-crafted features. Architectures such as convolutional neural networks, recurrent neural networks and Q-nets for reinforcement learning have shaped a brand new scenario in signal processing. This course will cover the basic principles and applications of deep learning to computer vision problems, such as image classification, object detection or text captioning.
 
+## Organizers
+
+| ![logo-etsetb] | ![logo-gpi] | ![logo-upc] |  ![logo-insight] | ![logo-dcu] |
+|:------------:|:------------:|:------------:|:------------:|:------------:|
+| [UPC ETSETB TelecomBCN](etsetb-web) | [UPC Image Processing Group](gpi-web) | [Universitat Politecnica de Catalunya (UPC)](upc-web) | [Insight Centre for Data Analytics](insight-web) | [Dublin City University (DCU)](dcu-web) |
+
+[etsetb-web]: https://www.etsetb.upc.edu/en/
+[upc-web]: http://www.upc.edu/?set_language=en
+[gpi-web]: https://imatge.upc.edu/web/
+[insight-web]: https://www.insight-centre.org/
+[dcu-web]: http://www.dcu.ie/
+
+[logo-etsetb]: img/logos/etsetb.png "ETSETB TelecomBCN"
+[logo-gpi]: img/logos/gpi.png "UPC Image Processing Group"
+[logo-upc]: img/logos/upc.jpg "Universitat Politecnica de Catalunya"
+[logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
+[logo-dcu]: img/logos/dcu.png "Dublin City University"
+
 ## Course Instructors
 
 | ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Kevin McGuinness][KevinMcGuinness-photo] | ![AmaiaSalvador][AmaiaSalvador-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![RamonMorros][RamonMorros-photo]  | ![VeronicaVilaplana][VeronicaVilaplana-photo]  | ![JavierRuiz][JavierRuiz-photo] |
@@ -35,24 +53,16 @@ Deep learning technologies are at the core of the current revolution in artifici
 [VeronicaVilaplana-photo]: img/instructors/VeronicaVilaplana.jpg "Veronica Vilaplana"
 [JavierRuiz-photo]: img/instructors/JavierRuiz.jpg "Javier Ruiz"
 
+## Teaching Assistants
 
-## Organizers
+| ![Eric Arazo][EricArazo-photo] | 
+|:-:|
+| [Eric Arazo][EricArazo-web] |
 
-| ![logo-etsetb] | ![logo-gpi] | ![logo-upc] |  ![logo-insight] | ![logo-dcu] |
-|:------------:|:------------:|:------------:|:------------:|:------------:|
-| [UPC ETSETB TelecomBCN](etsetb-web) | [UPC Image Processing Group](gpi-web) | [Universitat Politecnica de Catalunya (UPC)](upc-web) | [Insight Centre for Data Analytics](insight-web) | [Dublin City University (DCU)](dcu-web) |
+[EricArazo-web]: https://www.linkedin.com/in/eric-arazo-s%C3%A1nchez-230785bb/
+[EricArazo-photo]: img/assistants/EricArazo-160x160.jpg "Eric Arazo"
 
-[etsetb-web]: https://www.etsetb.upc.edu/en/
-[upc-web]: http://www.upc.edu/?set_language=en
-[gpi-web]: https://imatge.upc.edu/web/
-[insight-web]: https://www.insight-centre.org/
-[dcu-web]: http://www.dcu.ie/
 
-[logo-etsetb]: img/logos/etsetb.png "ETSETB TelecomBCN"
-[logo-gpi]: img/logos/gpi.png "UPC Image Processing Group"
-[logo-upc]: img/logos/upc.jpg "Universitat Politecnica de Catalunya"
-[logo-insight]: img/logos/insight.jpg "Insight Centre for Data Analytics"
-[logo-dcu]: img/logos/dcu.png "Dublin City University"
 
 <!-- Do not display this at the moment
 ## Hands on Caffe2
