@@ -39,7 +39,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 ## Organizers
 
 | ![logo-etsetb] | ![logo-gpi] | ![logo-upc] |  ![logo-insight] | ![logo-dcu] |
-|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|
+|:------------:|:------------:|:------------:|:------------:|:------------:|
 | [UPC ETSETB TelecomBCN](etsetb-web) | [UPC Image Processing Group](gpi-web) | [Universitat Politecnica de Catalunya (UPC)](upc-web) | [Insight Centre for Data Analytics](insight-web) | [Dublin City University (DCU)](dcu-web) |
 
 [etsetb-web]: https://www.etsetb.upc.edu/en/
