@@ -53,17 +53,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 [VeronicaVilaplana-photo]: img/instructors/VeronicaVilaplana.jpg "Veronica Vilaplana"
 [JavierRuiz-photo]: img/instructors/JavierRuiz.jpg "Javier Ruiz"
 
-## Teaching Assistants
 
-| ![Eric Arazo][EricArazo-photo] | ![Eduard Ramon][EduRamon-photo] | 
-|:-:|:-:|
-| [Eric Arazo][EricArazo-web] | [Eduard Ramon][EduRamon-web] |
-
-[EricArazo-web]: https://www.linkedin.com/in/eric-arazo-s%C3%A1nchez-230785bb/
-[EricArazo-photo]: img/assistants/EricArazo-160x160.jpg "Eric Arazo"
-
-[EduRamon-web]: https://www.linkedin.com/in/eduard-ramon-maldonado-71951359/
-[EduRamon-photo]: img/assistants/EduRamon-160x160.jpg "Eduard Ramon"
 
 
 
@@ -88,6 +78,18 @@ This 2017 edition of the seminar will include two invited talks on Tuesday 27 at
 [ElisendaBou-web]: https://www.linkedin.com/in/elisendabou/?ppe=1
 [vilynx-web]: http://www.vilynx.com/
 [ElisendaBou-photo]: img/guests/ElisendaBou-160x160.jpg "Elisenda Bou"
+
+## Teaching Assistants
+
+| ![Eric Arazo][EricArazo-photo] | ![Eduard Ramon][EduRamon-photo] | 
+|:-:|:-:|
+| [Eric Arazo][EricArazo-web] | [Eduard Ramon][EduRamon-web] |
+
+[EricArazo-web]: https://www.linkedin.com/in/eric-arazo-s%C3%A1nchez-230785bb/
+[EricArazo-photo]: img/assistants/EricArazo-160x160.jpg "Eric Arazo"
+
+[EduRamon-web]: https://www.linkedin.com/in/eduard-ramon-maldonado-71951359/
+[EduRamon-photo]: img/assistants/EduRamon-160x160.jpg "Eduard Ramon"
 
 ## Temptative Schedule
 
