@@ -33,7 +33,7 @@ Deep learning technologies are at the core of the current revolution in artifici
 ## Course Instructors
 
 | ![Xavier Giro-i-Nieto][XavierGiro-photo] |  ![Kevin McGuinness][KevinMcGuinness-photo] | ![AmaiaSalvador][AmaiaSalvador-photo] | ![Elisa Sayrol][ElisaSayrol-photo]  | ![RamonMorros][RamonMorros-photo]  | ![VeronicaVilaplana][VeronicaVilaplana-photo]  | ![JavierRuiz][JavierRuiz-photo] |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Xavier Giro-i-Nieto (XG)][XavierGiro-web] | [Kevin McGuinness (KM)][KevinMcGuinness-web]  | [Amaia Salvador (AS)][AmaiaSalvador-web]   | [Elisa Sayrol (ES)][ElisaSayrol-web]  | [Ramon Morros (RM)][VeronicaVilaplana-web]  | [Veronica Vilaplana (VV)][VeronicaVilaplana-web]   | [Javier Ruiz (JR)][JavierRuiz-web]  
 
 [XavierGiro-web]: https://imatge.upc.edu/web/people/xavier-giro
