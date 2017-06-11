@@ -91,6 +91,9 @@ This 2017 edition of the seminar will include two invited talks on Tuesday 27 at
 [EduRamon-web]: https://www.linkedin.com/in/eduard-ramon-maldonado-71951359/
 [EduRamon-photo]: img/assistants/EduRamon-160x160.jpg "Eduard Ramon"
 
+[MartaColl-web]: https://www.linkedin.com/in/marta-coll-043b0412b/
+[MartaColl-photo]: img/assistants/MartaColl-160x160.jpg "Eduard Ramon"
+
 ## Temptative Schedule
 
 | When       | Wednesday 21          | Thursday 22         | Friday 23         | Monday 26          | Tuesday 27 (Open)        |
