@@ -81,9 +81,9 @@ This 2017 edition of the seminar will include two invited talks on Tuesday 27 at
 
 ## Teaching Assistants
 
-| ![Eric Arazo][EricArazo-photo] | ![Eduard Ramon][EduRamon-photo] | 
+| ![Eric Arazo][EricArazo-photo] | ![Eduard Ramon][EduRamon-photo] | ![Marta Coll][MartaColl-photo] | 
 |:-:|:-:|
-| [Eric Arazo][EricArazo-web] | [Eduard Ramon][EduRamon-web] |
+| [Eric Arazo][EricArazo-web] | [Eduard Ramon][EduRamon-web] | [Marta Coll][MartaColl-web] |
 
 [EricArazo-web]: https://www.linkedin.com/in/eric-arazo-s%C3%A1nchez-230785bb/
 [EricArazo-photo]: img/assistants/EricArazo-160x160.jpg "Eric Arazo"
