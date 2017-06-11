@@ -78,8 +78,8 @@ This 2017 edition of the seminar will include two invited talks on Tuesday 27 at
 ## Teaching Assistants
 
 | ![Eric Arazo][EricArazo-photo] | ![Eduard Ramon][EduRamon-photo] | ![Marta Coll][MartaColl-photo] | ![Francisco Roldán][FranRoldan-photo] | 
-|:-:|:-:|:-:|
-| [Eric Arazo][EricArazo-web] | [Eduard Ramon][EduRamon-web] | [Marta Coll][MartaColl-web] | [Francisco Roldán][Fran Roldan-web] |
+|:-:|:-:|:-:|:-:|
+| [Eric Arazo][EricArazo-web] | [Eduard Ramon][EduRamon-web] | [Marta Coll][MartaColl-web] | [Francisco Roldán][FranRoldan-web] |
 
 [EricArazo-web]: https://www.linkedin.com/in/eric-arazo-s%C3%A1nchez-230785bb/
 [EricArazo-photo]: img/assistants/EricArazo-160x160.jpg "Eric Arazo"
@@ -90,8 +90,8 @@ This 2017 edition of the seminar will include two invited talks on Tuesday 27 at
 [MartaColl-web]: https://www.linkedin.com/in/marta-coll-043b0412b/
 [MartaColl-photo]: img/assistants/MartaColl-160x160.jpg "Marta Coll"
 
-[FranRoldan-web]: https://www.linkedin.com/mynetwork/invite-sent/francisco-rold%C3%A1n-s%C3%A1nchez-870438113/
-[FranRoldan-photo]: img/assistants/MartaColl-160x160.jpg "Francisco Roldan"
+[FranRoldan-web]: https://www.linkedin.com/in/francisco-rold%C3%A1n-s%C3%A1nchez-870438113/
+[FranRoldan-photo]: img/assistants/FranRoldan-160x160.jpg "Francisco Roldán"
 
 ## Temptative Schedule
 
