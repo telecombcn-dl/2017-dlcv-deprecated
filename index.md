@@ -103,8 +103,13 @@ This 2017 edition of the seminar will include two invited talks on Tuesday 27 at
 | 4:00-4:20  | ImageNet (XG)         | Object (AS)         | Generative (KM)   | Predictive (XG)    | Project expos            |
 | 4:20-4:40  | Training (KM)         | Faces (ES)          | Language (XG)     | Retrieval (KM)     | Project expos            |
 | 4:40-5:00  | Visualization (AS)    | Unsupervised (KM)   | Attention (AS)    | Audio (XG)         | Project expos            |
-| 5:00-6:00  | Lab                   | Lab                 | Lab               | Lab                | Guest speakers           |
+| 5:00-6:00  | [Lab1: Image Classification][Lab1]                | [Lab2: Object Detection][Lab2]              | [Lab3: Image Segmentation][Lab3]            | [Lab4: RNNs][Lab4]             | Guest speakers           |
 | 6:00-7:00  | Project               | Project             | Project           | Project            | Closing                  | 
+
+[Lab1]: https://nvidia.qwiklab.com/focuses/preview/1579?locale=en
+[Lab2]: https://nvidia.qwiklab.com/focuses/preview/1204?locale=en
+[Lab3]: https://nvidia.qwiklab.com/focuses/preview/2193?locale=en
+[Lab4]: https://nvidia.qwiklab.com/focuses/preview/3043?locale=en
 
 ## Practical
 * Course code: [230360](http://infoteleco.upc.edu/documents/guia_docent/assignatures/all/ang/230360.pdf) (Phd & master) / [230324](http://www.etsetb.upc.edu/ca/shared/curs-actual/seminaris/Fitxa_guia_docent_seminari_grau_IDLCV.pdf) (Bachelor)
