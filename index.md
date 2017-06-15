@@ -173,13 +173,16 @@ Find us at the [class page](https://piazza.com/upc/summer2016/230360/home).
 | [Persontyle][web-persontyle]                                 | ![logo-persontyle] |
 | [Erasmus+ programme from the European Union][web-erasmus]    | ![logo-erasmus] |
 | [Google Cloud Platform Education Grants][web-googlecloud]    | ![logo-googlecloud] |
+| [NVIDIA Deep Learning Institute][web-nvidiadlia]             | ![logo-nvidiadli] |
 
 
 [web-persontyle]: http://www.persontyle.com/
 [web-erasmus]: https://ec.europa.eu/programmes/erasmus-plus/node_en
 [web-googlecloud]: https://cloud.google.com/edu/
+[web-nvidiadli]: https://www.nvidia.com/en-us/deep-learning-ai/education/
 
 [logo-persontyle]: img/logos/persontyle675x200.png "Persontyle logo"
 [logo-erasmus]: img/logos/erasmus700x200.jpg "Erasmus logo"
 [logo-googlecloud]: img/logos/googlecloud486x300.png "Google Cloud logo"
+[logo-nvidiadli]: img/logos/nvidiadli-300x98.png "NVIDIA DLIA"
 
