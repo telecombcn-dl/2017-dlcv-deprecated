@@ -168,6 +168,7 @@ Find us at the [class page](https://piazza.com/upc/summer2016/230360/home).
 
 ## Acknowledgements
 
+|   |    |
 |:--|:-:|
 | [Persontyle][web-persontyle]                                 | ![logo-persontyle] |
 | [Erasmus+ programme from the European Union][web-erasmus]    | ![logo-erasmus] |
